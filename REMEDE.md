@@ -1,0 +1,1 @@
+mongodb+srv://DG-Gowda:x0rs53ywxNeih5Gt@cluster0.07izxkv.mongodb.net/shop?retryWrites=true&w=majority
